@@ -1,8 +1,6 @@
 class Application
 
-  @@items = [Item.new("Apples"),
-            Item.new("Carrots"),
-            Item.new("Pears")]
+  @@items = ["Apples","Carrots","Pears"]
 
   @@cart = []
   
