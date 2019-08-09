@@ -1,7 +1,8 @@
 class Application
 
   @@items = [Song.new("Apples"),
-            Song.new("Hello","Adele")]
+            Song.new("Carrots"),
+            Song.new("Pears")]
 
   @@cart = []
   
